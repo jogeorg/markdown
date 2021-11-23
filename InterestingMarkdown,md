@@ -33,10 +33,11 @@ John George | Sr. Consultant | John.George@microsoft.com | Microsoft
 ### Empahsis
 *This is Italics* and **This is Bold**
 
+###Sub and Superscript
 E=MC<sup>2</sup>
 
 H<sub>2</sub>O
 
 Sometimes markdown needs a <span style="color:red">WARNING</span>
 
-###thanks lol :)
+###thanks
