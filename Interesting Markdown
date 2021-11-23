@@ -14,10 +14,10 @@ Name | Role | email | Org
 John George | Sr. Consultant | John.George@microsoft.com | Microsoft
 
 ###Full Image Insert
-![](markdown/image.jpeg)
+![image Insert](markdown/image.jpeg)
 
 ###url
-[My Certs](credly link)
+[My Certs](https://www.credly.com/users/john-george1/badges)
 
 ### A LIst
 1. Item 1
@@ -27,12 +27,14 @@ John George | Sr. Consultant | John.George@microsoft.com | Microsoft
 ### B list
 1. Item 1
 > sub point 1
+
 > sub point 2
 
 ### Empahsis
 *This is Italics* and **This is Bold**
 
 E=MC<sup>2</sup>
+
 H<sub>2</sub>O
 
 Sometimes markdown needs a <span style="color:red">WARNING</span>
