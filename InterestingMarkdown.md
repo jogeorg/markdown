@@ -14,7 +14,7 @@ Name | Role | email | Org
 John George | Sr. Consultant | John.George@microsoft.com | Microsoft
 
 ###Full Image Insert
-![image Insert](markdown/image.jpeg)
+![image Insert](https://github.com/jogeorg/markdown/blob/main/image.jpeg)
 
 ###url
 [My Certs](https://www.credly.com/users/john-george1/badges)
